@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\bin\Debug\ReviewDisplay.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\obj\Debug\ReviewDisplay.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\obj\Debug\ReviewDisplay.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\obj\Debug\ReviewDisplay.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\bin\Debug\ReviewDisplay.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\bin\Debug\ReviewDisplay.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\bin\Debug\ReviewDisplay.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\obj\Debug\ReviewDisplay.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\obj\Debug\ReviewDisplay.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\Apriyandi6-week3\ReviewDisplay\ReviewDisplay\obj\Debug\ReviewDisplay.pdb
